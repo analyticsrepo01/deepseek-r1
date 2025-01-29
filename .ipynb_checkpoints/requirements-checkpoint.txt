@@ -1,0 +1,9 @@
+fastapi
+litellm
+pydantic
+transformers
+datasets
+accelerate
+trl
+torch
+google-genai
